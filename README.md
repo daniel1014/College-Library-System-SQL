@@ -1,4 +1,4 @@
-# College-Library-System-SQL-
+# College-Library-System-SQL
 Database System Coursework
 
 This project aims to outline the conceptual design of a database for a college library and implement the database application. The database application will be discussed and implemented by detailing the following:
