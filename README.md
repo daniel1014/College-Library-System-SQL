@@ -12,5 +12,4 @@ This report aims to implement the relational schema of the College Library Syste
 7)	Data security issues of the database
 
 The DBMS chosen is Oracle Live SQL, and the scripts presented in a separate file of the report will be aligned with the DBMS.
-![image](https://user-images.githubusercontent.com/11716270/158568416-0d305898-f670-4cd9-8e1c-fabafd59ffbb.png)
 
